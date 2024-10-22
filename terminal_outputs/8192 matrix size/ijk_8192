@@ -1,0 +1,155 @@
+		Tile Size:2
+cpu cycles: 43445544656751
+LL cache misses: 148936035346
+PAGE_FAULTS: 0
+Cache misses measure L1D: 14361637384368
+Cache misses measure L1I: 60469341907
+Cache misses measure DTLB: 138010228288
+Cache misses measure ITLB: 30045
+
+ Execution Time: 10774.343016 seconds
+
+
+		Tile Size:4
+cpu cycles: 13656594331166
+LL cache misses: 39014739761
+PAGE_FAULTS: 0
+Cache misses measure L1D: 11195293187041
+Cache misses measure L1I: 12813952738
+Cache misses measure DTLB: 34619720032
+Cache misses measure ITLB: 114
+
+ Execution Time: 3385.749221 seconds
+
+
+		Tile Size:8
+cpu cycles: 10008469988479
+LL cache misses: 12027180730
+PAGE_FAULTS: 0
+Cache misses measure L1D: 10166036320803
+Cache misses measure L1I: 7481763868
+Cache misses measure DTLB: 8762447137
+Cache misses measure ITLB: 67
+
+ Execution Time: 2482.686638 seconds
+
+
+		Tile Size:16
+cpu cycles: 9615885075389
+LL cache misses: 18685653545
+PAGE_FAULTS: 0
+Cache misses measure L1D: 9755576075329
+Cache misses measure L1I: 10997758839
+Cache misses measure DTLB: 4349368456
+Cache misses measure ITLB: 66
+
+ Execution Time: 2385.251256 seconds
+
+
+		Tile Size:32
+cpu cycles: 9788735876090
+LL cache misses: 86290044165
+PAGE_FAULTS: 0
+Cache misses measure L1D: 9543287553052
+Cache misses measure L1I: 12896850587
+Cache misses measure DTLB: 2653272320
+Cache misses measure ITLB: 31
+
+ Execution Time: 2426.791323 seconds
+
+
+		Tile Size:64
+cpu cycles: 10558063651313
+LL cache misses: 137322393375
+PAGE_FAULTS: 0
+Cache misses measure L1D: 9452454996320
+Cache misses measure L1I: 18167713658
+Cache misses measure DTLB: 335234281414
+Cache misses measure ITLB: 121
+
+ Execution Time: 2618.475398 seconds
+
+
+		Tile Size:128
+cpu cycles: 12129080920324
+LL cache misses: 287448053679
+PAGE_FAULTS: 0
+Cache misses measure L1D: 9452332992886
+Cache misses measure L1I: 29452218881
+Cache misses measure DTLB: 538524774556
+Cache misses measure ITLB: 5613
+
+ Execution Time: 3009.583908 seconds
+
+
+		Tile Size:256
+cpu cycles: 15605006730220
+LL cache misses: 502232612462
+PAGE_FAULTS: 0
+Cache misses measure L1D: 9425521942332
+Cache misses measure L1I: 42196884520
+Cache misses measure DTLB: 545657545573
+Cache misses measure ITLB: 28
+
+ Execution Time: 3867.492436 seconds
+
+
+		Tile Size:512
+cpu cycles: 25102963890048
+LL cache misses: 559129319557
+PAGE_FAULTS: 0
+Cache misses measure L1D: 9950382568260
+Cache misses measure L1I: 50523001847
+Cache misses measure DTLB: 548382731792
+Cache misses measure ITLB: 168
+
+ Execution Time: 6223.266434 seconds
+
+
+		Tile Size:1024
+cpu cycles: 54192142355519
+LL cache misses: 564255320654
+PAGE_FAULTS: 0
+Cache misses measure L1D: 9947050615939
+Cache misses measure L1I: 47952479553
+Cache misses measure DTLB: 548926143099
+Cache misses measure ITLB: 150
+
+ Execution Time: 13435.902855 seconds
+
+
+		Tile Size:2048
+cpu cycles: 70059334677086
+LL cache misses: 563514499609
+PAGE_FAULTS: 0
+Cache misses measure L1D: 9940377094600
+Cache misses measure L1I: 44335445028
+Cache misses measure DTLB: 549948625329
+Cache misses measure ITLB: 89
+
+ Execution Time: 17369.491199 seconds
+
+
+		Tile Size:4096
+cpu cycles: 71239670371412
+LL cache misses: 563619339844
+PAGE_FAULTS: 0
+Cache misses measure L1D: 9937693485963
+Cache misses measure L1I: 45127995670
+Cache misses measure DTLB: 550209232815
+Cache misses measure ITLB: 84
+
+ Execution Time: 17660.926215 seconds
+
+
+		Tile Size:8192
+cpu cycles: 70874636000546
+LL cache misses: 569854733254
+PAGE_FAULTS: 0
+Cache misses measure L1D: 9941542440830
+Cache misses measure L1I: 50114933545
+Cache misses measure DTLB: 550332014481
+Cache misses measure ITLB: 266
+
+ Execution Time: 17570.332057 seconds
+
